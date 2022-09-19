@@ -18,9 +18,9 @@
 
 
 # Mansoura University Teams Roadmaps 
-* CAT-Reload](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps-2022) <br />
-* [Mansoura ICPC] <br />
-  * [Level 0](https://docs.google.com/spreadsheets/d/1nwNw03gRP87ni7-ZH3JJsMGa9bt3URNLGe_osv8zdtM/edit?     fbclid=IwAR3yEWANBolxq511nG7ZGuSLgA5535XTUc8nYIUG_mntN99E_aEWG9JZuZc#gid=0)
+* [CAT-Reload](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps-2022)
+* Mansoura ICPC 
+  * [Level 0](https://docs.google.com/spreadsheets/d/1nwNw03gRP87ni7-ZH3JJsMGa9bt3URNLGe_osv8zdtM/edit?fbclid=IwAR3yEWANBolxq511nG7ZGuSLgA5535XTUc8nYIUG_mntN99E_aEWG9JZuZc#gid=0)
   * [Level 1](https://docs.google.com/spreadsheets/d/1lspiEG_XNOeVcMcAl1cpJ3aBldEKkmedVQ-eEdI28sE/edit?fbclid=IwAR1W-kR6bIoAJNgI8Vwz4vJayIkiRe9Y7P45mVFlkoLt175uNkV0KGdLCMg#gid=0)
   
 # Andriod
