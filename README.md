@@ -2,7 +2,7 @@
 |Name|University|Facebook|LinkedIn|Field|
 |----|----------|--------|--------|-----|
 |Ahmed Semida|Mansoura University|[message](https://www.facebook.com/ahmed.simeda)|[connect](https://www.linkedin.com/in/ahmed-simeda)|Data Science|
-|Islam elgendy|Mansoura University|[message](https://www.facebook.com/profile.php?id=10007991242270)|
+|Islam elgendy|Mansoura University|[message](https://www.facebook.com/profile.php?id=10007991242270)|[Connect](https://www.linkedin.com/in/islammelgendy)|Data Science| 
 |Nouran Ali|Mansoura University|[message](https://www.facebook.com/noran.ali.33)|[connect](https://www.linkedin.com/in/nouranali)|Data Science|
 |Farid Ahmed|Mansoura University|[message](https://www.facebook.com/doubleFarid)|[connect](https://www.linkedin.com/in/faridsharaf)|Data Science|
 |Hadder Arfa|Mansoura University|[message](https://www.facebook.com/Hadeer108.Arafa)|[connect](https://www.linkedin.com/in/hadeer-arafa)|Data Science|
