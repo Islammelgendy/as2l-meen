@@ -11,5 +11,7 @@
 |Ahmed elbioumy|Mansoura University|[message](https://www.facebook.com/ahmed.elbaioumy.1)|[connect](https://www.linkedin.com/in/ahmed-khaled-2bb212233)|Data Science|
 |Hossam Asaad|Mansoura University|[Message](https://www.facebook.com/HossAmAsaad10)|[connect](https://www.linkedin.com/in/hossamasaad10)|Data Science|
 |Mohammed Badr|Mansoura University|[Message](https://www.facebook.com/MoB2dr)|[Connect](https://www.linkedin.com/in/mohamed-badr-921aa91b2)|Data Science|
+|Muhammad Selim|Mansoura University|[Message](https://www.facebook.com/mohamad.selim.52)|[Connect](https://www.linkedin.com/in/m-20x)|Problem Solving|
+|Mahmoud Shawky|Mansoura University|[Message](https://www.facebook.com/profile.php?id=100003364435613)|[Connect](https://www.linkedin.com/in/mahmoudshawkyy)|Problem Solving|
 
 
