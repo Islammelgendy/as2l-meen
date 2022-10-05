@@ -40,7 +40,7 @@
 |Nahla Galal|Mansoura University|[Message](https://www.facebook.com/NhlaaGalal/)|[Connect](https://www.linkedin.com/in/nahla-galal/)|Front End|
 |Yasser Elsnbary|Mansoura University|[Message](https://www.facebook.com/yaseerelsnbary)|[Connect](https://www.linkedin.com/in/yasserelsnbary/)|Security|
 |Mahmoud Elsayed Elshahatt|Mansoura University|[Message](https://www.facebook.com/profile.php?id=100025318779234)|[Connect](https://www.linkedin.com/in/mahmoudelshahatt/)|Andriod|
-|Ahmed AlMoselhy|Mansoura University|[Message](https://www.facebook.com/ahmedhanislm)|[Connect]([https://www.linkedin.com/in/mahmoudelshahatt/](https://www.linkedin.com/in/ahmedalmoselhyslm/))|Back End|
+|Ahmed AlMoselhy|Mansoura University|[Message](https://www.facebook.com/ahmedhanislm)|[Connect](https://www.linkedin.com/in/ahmedalmoselhyslm/)|Back End|
 
 # Mansoura University Teams Roadmaps 
 * [CATReloaded](https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps-2022)
